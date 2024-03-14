@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/anton_aladin" target="_blank">Anton</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/imaHi.gif" height="32"/></h1>
+🖖</h1>
 <h3 align="center">Frontend/web developer from Russia 🇷🇺</h3>
 
 <!--
