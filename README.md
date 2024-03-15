@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/anton_aladin" target="_blank">Anton</a> 
 🖖</h1>
-<h3 align="center">Web developer from Russia 🇷🇺</h3>
+<h2 align="center">Web developer from Russia 🇷🇺</h2>
+<h3>Skills: <img src="https://skillicons.dev/icons?i=html,css,js,pug,php,mysql,scss,vue,laravel,npm,vite,figma&theme=dark"></h3>
 
 <!--
 **c0mixz0ne/c0mixz0ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
