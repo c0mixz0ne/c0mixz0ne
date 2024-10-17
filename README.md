@@ -2,7 +2,7 @@
 🖖</h1>
 <h2 align="center">Web developer from Russia 🇷🇺</h2>
 <h3 align="center">Skills</h3>
-<h3 align="center"><img src="https://skillicons.dev/icons?i=html,css,scss,less,bootstrap,js,ts,vue,pinia,pug,figma,npm,vite,webpack,php,laravel,mysql,git,postman,jest,azure,docker,vscode,visualstudio,photoshop,bash,github,md,svg&theme=dark"></h3>
+<h3 align="center"><img src="https://skillicons.dev/icons?i=html,pug,css,scss,less,js,ts,vue,pinia,figma,npm,vite,webpack,postman,jest,azure,docker,vscode,visualstudio,photoshop,github,svg&theme=dark"></h3>
 
 <!--
 **c0mixz0ne/c0mixz0ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
