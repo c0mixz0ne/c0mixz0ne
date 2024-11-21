@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/anton_aladin" target="_blank">Anton</a> 
+<h1 align="center">Hi there, I'm <span style="color: purple;">Anton</span> 
 🖖</h1>
 <h2 align="center">Web developer from Russia 🇷🇺</h2>
 <h3 align="center">Skills</h3>
