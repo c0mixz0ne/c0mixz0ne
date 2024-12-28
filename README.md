@@ -1,6 +1,6 @@
 <h3 align="center"><img src="https://skillicons.dev/icons?i=html,pug,css,scss,less,js,ts,vue,pinia,figma,npm,vite,webpack,postman,jest,azure,vscode,visualstudio,photoshop,github,svg&theme=dark"></h3>
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=c0mixz0ne&color=blueviolet)
+<!--![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=c0mixz0ne&color=blueviolet)-->
 
 <!--
 **c0mixz0ne/c0mixz0ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
