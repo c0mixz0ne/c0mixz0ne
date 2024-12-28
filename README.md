@@ -1,6 +1,3 @@
-<h1 align="center">Hi there, I'm <span style="color: purple;">Anton</span> 
-🖖</h1>
-<h2 align="center">Web developer from Russia 🇷🇺</h2>
 <h3 align="center">Skills</h3>
 <h3 align="center"><img src="https://skillicons.dev/icons?i=html,pug,css,scss,less,js,ts,vue,pinia,figma,npm,vite,webpack,postman,jest,azure,vscode,visualstudio,photoshop,github,svg&theme=dark"></h3>
 
