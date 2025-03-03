@@ -1,4 +1,4 @@
-<h3 align="center"><img src="https://skillicons.dev/icons?i=html,pug,css,scss,less,js,ts,vue,nuxt,pinia,figma,npm,vite,webpack,postman,jest,azure,vscode,photoshop,github,svg,nginx,ubuntu&theme=dark"></h3>
+<h3 align="center"><img src="https://skillicons.dev/icons?i=html,pug,css,scss,less,js,ts,vue,nuxt,pinia,figma,npm,vite,webpack,postman,jest,azure,vscode,photoshop,github,gitlab,svg,nginx,ubuntu&theme=dark"></h3>
 
 <!--![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=c0mixz0ne&color=blueviolet)-->
 
